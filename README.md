@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/NaveenBharadwaj93](https://github.com/NaveenBharadwaj93)
 
-- 💬 Ask me about **Javascript, React js**
+- 💬 Ask me about **Javascript, Node js, React js**
 
 - 📫 How to reach me **Naveen.satish24@gmail.com**
 
